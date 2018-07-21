@@ -1,0 +1,7 @@
+color = input('Enter a color: ')
+plural_noun = input('Enter a plural noun: ')
+celebrity = input('Enter a celebrity: ')
+print('\n')
+print(f'All men are created {color}')
+print(f'{plural_noun} are the meaning of life')
+print(f'Just like {celebrity}')
