@@ -1,0 +1,6 @@
+John - Salesman
+Fred - Manager
+Bob - Salesman
+Maggie - Receptionist
+Jill - Customer Service
+Anne - Salesman
